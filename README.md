@@ -30,4 +30,4 @@
   <img src="https://cdn-icons-png.flaticon.com/128/4926/4926624.png" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedtanseer&show_icons=true&locale=en&layout=compact" alt="mohammedtanseer" /></p>
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedtanseer&show_icons=true&locale=en&layout=compact" alt="mohammedtanseer" /></p>
